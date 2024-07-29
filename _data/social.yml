@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://ksongr@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: ''
-  icon: fab fa-twitter
-- title: GitHub
-  url: ''
-  icon: fab fa-github
+#- title: Twitter
+#  url: ''
+#  icon: fab fa-twitter
+#- title: GitHub
+#  url: ''
+#  icon: fab fa-github
