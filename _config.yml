@@ -1,8 +1,8 @@
 # Setup
-title: Guo's space
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Guo's Space
+description: Minimalism
+url: ''
+avatar: /avatar2.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,14 +29,12 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: ''
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+  name: Guo guo
+  links: ''
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Guo guo
+  url: ''
+  email: ksongr@gmail.com
