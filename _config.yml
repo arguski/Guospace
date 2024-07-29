@@ -1,6 +1,6 @@
 # Setup
 title: Guo's Space
-description: // 這裡有狗 //
+description: 這裡有狗
 url: ''
 avatar: /avatar2.png
 paginate: 5
@@ -36,7 +36,7 @@ social:
   name: GuoGuo
   links: ''
 google_site_verification: xxxxx
-lang: en
+lang: zh-TW
 
 sass:
   sass_dir: _sass
