@@ -18,6 +18,7 @@ toc:  true
 以下內容是我爬文上課後整理的重點，有誤請不吝指教。
 
 ---
+![](https://lh3.googleusercontent.com/pw/AP1GczMR2esA7WylIDOjqpcLUuwKqCST3TkdkQ3lwxmVf08g0soGgYskvKlM9lQREAhLU9D-kDaTv7t1aohYoJw_gESNZeZ7k5E8bbPwMbTOEWOhr2oCO6B5ZJjHuZpS2Z2c5mWQSWjWYNhzYuaCH2i3YLJEsg=w400-h400-s-no-gm?authuser=0 "寵物乾飼料保存")
 
 ### 一、影響飼料品質之變因
 
@@ -63,7 +64,7 @@ toc:  true
 
  ---
 
- ### <table><tr><td bgcolor=yellow><font color=red> 五、不建議事項</font></td></tr></table>
+ ### <font color=red> **五、不建議事項**</font>
  - 不要放入冰箱冷藏保存
    + 飼料若進行冷藏再拿出，反覆回溫過程會使乾飼料中含水量增加，進而使黴菌增加
 
