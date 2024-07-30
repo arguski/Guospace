@@ -9,7 +9,7 @@ toc:  true
 紀錄2023年帶狗狗搭船到澎湖旅遊，事前準備文件、行程、住宿費用，順便介紹澎湖寵物友善美食跟景點！
 {: .message }
 
-![](/post-pics/Penghu-dog1.jpg "澎湖寵物搭船")
+![](/assets/post-pics/Penghu-dog1.jpg "澎湖寵物搭船")
 
 ### 行前準備
 ---
