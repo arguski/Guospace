@@ -303,7 +303,7 @@ toc:  true
 
 #### **// 實際用餐心得 //** 
 
-*仙人掌優酪乳**，味道上優酪乳稍嫌搶味，不過整體喝起來仍舊酸酸甜甜很消暑。店家對自備杯很友善喔，除了稱讚之外，還免費多倒一些給我們，讓當時在旁邊的其他遊客好生羨慕啊，還被他的朋友吐槽說"那你也自己帶杯子啊"，對對對，大家都來加入減塑吧!! (計畫通)
+**仙人掌優酪乳**，味道上優酪乳稍嫌搶味，不過整體喝起來仍舊酸酸甜甜很消暑。店家對自備杯很友善喔，除了稱讚之外，還免費多倒一些給我們，讓當時在旁邊的其他遊客好生羨慕啊，還被他的朋友吐槽說"那你也自己帶杯子啊"，對對對，大家都來加入減塑吧!! (計畫通)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczP097GRVfuctklgvdAk2isFQBtv18HOC_luqvM9jUYHmOwvM49VYb8qUREy50gTr_tbTapo-3HSXAcY0r4IBoeUoVpLgrnDg3dBjzBLWm4lbnvC0qpnNnKpGOFySECebwQuk39QYzwLleewmGO4FQGVlQ=w480-h640-s-no-gm?authuser=0 "二崁一號(陳家)-仙人掌優酪乳")
 
@@ -316,24 +316,26 @@ toc:  true
 
 ---
 
- ### [二崁魚好刺身專門店](https://www.facebook.com/pesce.buone/?locale=zh_TW)
+- ### [二崁魚好刺身專門店](https://www.facebook.com/pesce.buone/?locale=zh_TW)
 
 魚好是在搜尋時，意外發現的寶藏小店。沒想到偶然跟民宿老闆聊到，她也推薦這家的生魚片，我想能獲得在地人稱讚想必是真的不錯，所以第三天又跑來二崁聚落一次。
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOw9Lg3SZoUFpv96-hnlG9phpY2xJnSmT6HOKU1YRYju6rTBQV2rWXVRh7gkIDGIrCYYsZ9ksxdcKrRtSzAYtiOpgL7cedQfUY76Xw8qLJc76PGodF601RUQ0tUiEL-9vQTkYTJDjE0fmV0gqf0HrEO7w=w640-h480-s-no-gm?authuser=0 "二崁魚好刺身生魚片")
+
 #### **// 實際用餐心得 //** 
 
 **魚好生魚片**，來自當天捕撈的海魚，將不同種類組合成一盤販售。  
 每盤固定售價$500，售完打烊。  
 
-從照片可以看到，每片魚肉都蠻厚的。除了基本切片生魚片外，魚肉表面上有一層黑黑，像是斑點的痕跡，那不是店家沒處理乾淨喔，而是特別經過炙燒處理的魚肉。  
+從照片可以看到，每片魚肉都蠻厚的。除了基本切片生魚片外，魚肉表面上有一層黑黑，像是斑點的痕跡，那不是店家沒處理乾淨喔，而是特別經過炙燒的魚肉。
+
 我蠻喜歡稍微炙燒的處理手法，讓魚肉入口後，經過口水咀嚼，味道變得更甜美；第一排中間白肉魚片是石斑，嚐起來肉質真的很好。
 
 雖然魚好隱身在二崁聚落中，簡單擺設，乾淨的環境，師傅親切，有問必答還會介紹魚的種類，很推薦大家來吃！
 
 ---
 
-### [二崁陳媽媽澎湖味(在二崁花磚館內) ](https://penghuchenmama.weebly.com/)
+- ### [二崁陳媽媽澎湖味(在二崁花磚館內) ](https://penghuchenmama.weebly.com/)
 
 這家店也是無意間找到的。找到當下，很衝動決定隔天回台灣前的早上，要再衝一波二崁！一切都是為了下面這包 **季節限定的辣味小章魚**。 
 
@@ -362,7 +364,7 @@ toc:  true
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOFfbt4sd2kAdg-w9dlLD9ozAcrGbF3ewDMc3HGoaAjju1Ph_GGP7Rpcf7IgRJOQ3grjBewoYBYrnc4oLv3W0USD3VUe86d2CwcFa1iShz9GtFFaP01jS38sbQxx98fEhOYBDGHOYz-G-gQuOXuDbVBSA=w640-h480-s-no-gm?authuser=0 "澎湖瘋燒烤")
 
-來澎湖怎麼能不吃海鮮燒烤呢？只是從沒想過可以和狗狗一起吃，以為帶狗會被拒絕，沒想到是自己想太多，澎湖很多家燒烤詢問過，店家都歡迎帶狗，只是要不要另外加價還是要先致電詢問喔。
+來澎湖怎麼能不吃海鮮燒烤呢？只是從沒想過可以和狗狗一起吃，以為帶狗會被拒絕，沒想到是自己想太多，詢問過澎湖很多家燒烤，店家都歡迎帶狗，只是要不要另外加價還是要先致電確認。
 
 #### **// 實際用餐心得 //** 
 
@@ -371,9 +373,11 @@ toc:  true
 
 店員人好又友善，願意安排比較大的位置給我們。  
 
-烤爐、座位環境乾淨；食材賣點就是牡蠣吃到飽，當天我們真的吃了10個以上，回去也沒拉肚子，新鮮還算OK。  
+烤爐、座位環境乾淨；食材賣點就是牡蠣吃到飽，當天我們真的吃了10個以上，回去也沒拉肚子，新鮮度算OK。  
 
-沒想過可以帶著兩隻中大型犬吃燒烤，真的度過一個很美好的烤肉夜。當然錢錢跟嚕嚕也很乖，沒有亂叫或亂動，乖乖待在桌子下等我們餵食肉肉，店內除了醃製肉類，也有提供純肉無醃製過，一直到我們吃飽起身要離開，隔壁桌客人才驚覺原來有兩隻大狗陪吃，哈哈
+沒想過可以帶著兩隻中大型犬吃燒烤，真的度過一個很美好的烤肉夜。
+
+當然錢錢跟嚕嚕也很乖，沒有亂叫或亂動，乖乖待在桌子下等我們餵食肉肉，店內除了醃製肉類，也有提供純肉無醃製過，一直到我們吃飽起身要離開，隔壁桌客人才驚覺原來有兩隻大狗陪吃，哈哈
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczP92kG5dYU5ADzVi8GPWbFn5QTztzLsg4puCvKaA_9Ajpsxo2QGjoco9Hck-zMrpuKphtGd9aXkreihvNva7ZQxXbUrYvEka7_NuXqMcBObeO-m9veSYpzojPR_l7FULLjRUZqWpVBIapEMOEamy-y0yw=w640-h480-s-no-gm?authuser=0 "澎湖瘋燒烤")
 
@@ -381,7 +385,7 @@ toc:  true
 
 ---
 
-### 同場加映小踩雷店家
+## 同場加映小踩雷店家
 
 > *我的毒藥可能是你的蜜糖，自己斟酌看，以下完全僅代表個人消費後的感受，店家不要來找我爭論唷~*
 
@@ -394,6 +398,7 @@ toc:  true
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNvnFTOkZBWJWcCCdDJxq29E2tVD4WzmxIVkjX_PKx7JoFxDUC8vDL8tShRAjLDSaClFCEXu27siv2mivJ9W1PN1msohPFx-rwrpwedTBy-5CJJW08-2v2bZPH8GyEJYv1mZviLvGvgatw2x988ofVMxA=w480-h640-s-no-gm?authuser=0 "阿豹香腸攤")
 
+---
 
 - **二崁二馬豆花**
   + 不推薦：價格貴，共用糖水衛生堪慮  
@@ -402,6 +407,7 @@ toc:  true
 花生竟然只有粉還不是粒...誰吃誰盤。
 
 豆花本身還不冰，店家臉很臭很厭世，裝完豆花會從旁邊隨便拿一壺糖水給你，這糖水真的很像客人輪流用，~~上組客人用剩的再給你??~~。  
+
 糖水直接放置室溫下...也不知道多久，看到這些我真的很難接受耶，但都點了也不能不要。  吃完馬上看評論，果真很多人都不推薦...記得下次來二崁欣賞傳統閩南建築工藝之美就好，千萬別來踩雷。
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNnEiP1Mvz59mS0jzzfXSOjOYnsPYYKOt8h76ncDBDOX1TLeKBBZHlAzBg0jfRTP6NGc3Mmb9zcisw5LiuCqZiyuDL097W4qu5RPIkrD5f1p3pduSsJaGbPm0DdwBYpA_-WHEOS8xrom5lxJhBueiVZ0Q=w480-h640-s-no-gm?authuser=0 "二崁二馬豆花")
