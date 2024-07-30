@@ -152,7 +152,8 @@ toc:  true
 
 本人除了是飼主，同時也是減塑者，下面有些店家是對狗狗友善、有些是對減塑友善，書寫順序隨機。
 
- + ### [LANKA Dining&Bar 藍卡景觀餐酒吧](https://www.facebook.com/people/LANKA-DiningBar-%E8%97%8D%E5%8D%A1%E6%99%AF%E8%A7%80%E9%A4%90%E9%85%92%E5%90%A7/100065524988034/?locale=ms_MY&paipv=0&eav=Afby0RMXQP2btRLujBlUj2c9bAeSena3uIb-PkevAjoXwRc-mUVpVY2I5XqKfqUVYNM&_rdr)
+ ### LANKA Dining&Bar 藍卡景觀餐酒吧
+ + [LANKA Dining&Bar 藍卡景觀餐酒吧](https://www.facebook.com/people/LANKA-DiningBar-%E8%97%8D%E5%8D%A1%E6%99%AF%E8%A7%80%E9%A4%90%E9%85%92%E5%90%A7/100065524988034/?locale=ms_MY&paipv=0&eav=Afby0RMXQP2btRLujBlUj2c9bAeSena3uIb-PkevAjoXwRc-mUVpVY2I5XqKfqUVYNM&_rdr)
 
    - 可落地  
    - 沒有寵物餐  
@@ -178,7 +179,8 @@ toc:  true
 鹹豬肉酸菜披薩，起司份量給很多，上桌時還熱呼呼，幾乎每一片都會牽絲，起司又配鹹豬肉，味道上偏鹹但酸菜意外中和掉油膩感，不錯吃。
 
 ---
-+ ### [藍媽媽仙草店](https://www.facebook.com/x069263415/)
+ ### 藍媽媽仙草店
++ [藍媽媽仙草店](https://www.facebook.com/x069263415/)
   - 可落地
   - 內用陶瓷碗，非一次性紙碗
   - 附近景點：重光媽祖銅像
@@ -192,7 +194,8 @@ toc:  true
 ![](https://lh3.googleusercontent.com/pw/AP1GczOL0VznFbCW49u2ZIvBlpuI0p8vdaOg7kIN6auySRUoYaQl1TZv4dxy61Uo34MX_KBG_E1VWan0Wwf2M3C0SzCKZLO_8_ilNPIdLiqBN7dbo9bw5e_UzvuaryBY4umvqwVJD3pWbc85AMGAEq3uyox8eg=w480-h640-s-no-gm?authuser=0 "藍媽媽仙草店")
 
 ---
-+ ### [劉正港檸檬汁](https://www.google.com/maps/place/%E5%8A%89%E6%AD%A3%E6%B8%AF%E6%AA%B8%E6%AA%AC%E6%B1%81/@23.5662394,119.5627663,17z/data=!3m1!4b1!4m6!3m5!1s0x346c5af32e7fbd51:0xfdeee1781e86e6b2!8m2!3d23.5662345!4d119.5653412!16s%2Fg%2F1tlblx6h?entry=tts&shorturl=1)
+### 劉正港檸檬汁
++ [劉正港檸檬汁](https://www.google.com/maps/place/%E5%8A%89%E6%AD%A3%E6%B8%AF%E6%AA%B8%E6%AA%AC%E6%B1%81/@23.5662394,119.5627663,17z/data=!3m1!4b1!4m6!3m5!1s0x346c5af32e7fbd51:0xfdeee1781e86e6b2!8m2!3d23.5662345!4d119.5653412!16s%2Fg%2F1tlblx6h?entry=tts&shorturl=1)
   - 減塑友善，自備杯主動折價5元
   - 附近景點：觀音亭、虹橋、開臺天后宮
 
@@ -205,7 +208,10 @@ toc:  true
 ![](https://lh3.googleusercontent.com/pw/AP1GczP9B6xj9rFmpebVD4Cc3NqgLQn1_ShwEXeexnBP2gKvkPJaA2hRARYIpcOtO0QYNEcX3sJe3F6ueYLlmTeAAYDSVN79AkreMbYMbH6-OkdixwQMxYvG-F_p3Q2HralNDLcxi4SgzVIdm8UMNc27BbwuMg=w480-h640-s-no-gm?authuser=0 "劉正港檸檬汁-仙人掌檸檬汁")
 
 ---
-+ ### [華庭小吃部](https://restaurant-96854.business.site/)
+
+### 華庭小吃部
+
++ [華庭小吃部](https://restaurant-96854.business.site/)
   - 問過應該是寵物友善，可以帶狗內用(建議電話再次確認) 
 
 #### **// 實際用餐心得 //**  
@@ -219,7 +225,8 @@ toc:  true
 ![](https://lh3.googleusercontent.com/pw/AP1GczN6_LB5xMijm0CtKvNF4-Xe3uJvK0pfXERHQBo2gWSSwwHX2oAv3ngxWDKtvBNZUxYCMY9kNGR9TiZNL5EB_6Rs97aE7ql13PU5JvP0BbI2C2kUOen3z8cjcOLIK1x3tVynuOvhQ3dF4wKZyDBov2Zdtw=w480-h640-s-no-gm?authuser=0 "華庭小吃部-小卷米粉")
 
 ---
-+ ### [早餐-尚青蛋餅](https://www.facebook.com/p/%E5%B0%9A%E9%9D%92%E6%97%A9%E9%A4%90%E5%BA%97-100020778847393/?paipv=0&eav=AfZjpqJ88KbWakszmByqVsUxHEM0QiC0UZAaDkuPTH59-YOkpy497nIkn3rgi7t20HA&_rdr)
+### 早餐-尚青蛋餅
++ [早餐-尚青蛋餅](https://www.facebook.com/p/%E5%B0%9A%E9%9D%92%E6%97%A9%E9%A4%90%E5%BA%97-100020778847393/?paipv=0&eav=AfZjpqJ88KbWakszmByqVsUxHEM0QiC0UZAaDkuPTH59-YOkpy497nIkn3rgi7t20HA&_rdr)
   - 內用區是室外座位，應該可以帶狗。
 
 民宿配合的早餐店中，最近就是這家。查了網路評價也不錯，就來吃看看。老闆娘很親切，會招呼客人。  
@@ -230,7 +237,8 @@ toc:  true
 ![](https://lh3.googleusercontent.com/pw/AP1GczMZ15KuE0KA7awuKGxbHGUnhZhqw6B9bF8B3CkDCtEja65oMd-nVZVM-UIrHAzgC3MQt60gDBZOcYPXZKZnvwAh3_6m4Sd1FwmoEkOa2XeZG8Ig5L2i9gMy_FPqt6f0zoT8ZQvcr8NHpNNGlM5_1SQNBA=w480-h640-s-no-gm?authuser=0 "澎湖尚青蛋餅")
 
 ---
-+ ### [彩韻榕園](https://www.facebook.com/CaiYunCactusIce/?locale=zh_TW)
+### 彩韻榕園
++ [彩韻榕園](https://www.facebook.com/CaiYunCactusIce/?locale=zh_TW)
   - 附近景點：通樑古榕、澎湖跨海大橋
 
 這間是[露營Youtuber KuoYuan](https://www.youtube.com/user/kenhwan0320)老師推薦，位置在通樑古榕旁，這一整排店家都賣同樣的東西：海菜煎餅、炸小卷、風茹茶、仙人掌冰..活動都是買煎餅送一球冰。　　
@@ -255,7 +263,9 @@ toc:  true
 個人喜歡這家程度大於跨海大橋附近有名的[**易家仙人掌冰淇淋**](https://www.facebook.com/profile.php?id=100057451149435)，易家價格較高，整體味道是更強烈，不過這兩間都值得嚐嚐看！
 
 ---
-- ### [小萍的店](https://www.facebook.com/profile.php?id=100057142223283&locale=zh_TW)
+### 小萍的店
+
++ [小萍的店](https://www.facebook.com/profile.php?id=100057142223283&locale=zh_TW)
    - 附近景點：小門嶼燈塔
 
 男友對多年前在日本吃過的小管生魚片念念不忘，前往二崁路上一直嚷嚷著想吃生魚片，隨意找了這家小萍的店覺得還不錯。
@@ -268,7 +278,8 @@ toc:  true
 ![](https://lh3.googleusercontent.com/pw/AP1GczPrJpamomkNQkRe5Ex3BHr7zimwPs4IxCi1QVgSWNQ7-U8TycoTVzgqoL-i67uR527FALQQVwtkaRPL2LwTusBsSDrcNgCilifQXiE2362rN2LlL0M6JPLvKGO61jTvUBnyDGFzyqEd39ZlPTQ567MVXQ=w480-h640-s-no-gm?authuser=0 "小萍的店-小管生魚片")
 
 ---
-- ### [二崁杏仁茶](https://erkantea.avalonagency.co/)
+ ### 二崁杏仁茶
++ [二崁杏仁茶](https://erkantea.avalonagency.co/)
    - 附近景點：池東大菓葉玄武岩
 
 這間應該很多人來二崁都會安排的行程，門口有一個很大的杏仁茶壺可以合照。
@@ -283,7 +294,8 @@ toc:  true
 
 ---
 
-- ### [二崁鳥來伯土豆仁粿】](https://www.google.com/maps/place/%E9%B3%A5%E4%BE%86%E4%BC%AF+%E5%9C%9F%E8%B1%86%E4%BB%81%E7%B2%BF/@23.6058609,119.5192504,15z/data=!4m6!3m5!1s0x346c5b40c26f9619:0x8500c447e462aca3!8m2!3d23.6058609!4d119.5192504!16s%2Fg%2F11g19pg0qr?sa=X&ved=2ahUKEwjpzOzntamBAxUDB4gKHYM0AgYQ_BJ6BAhSEAA&ved=2ahUKEwjpzOzntamBAxUDB4gKHYM0AgYQ_BJ6BAhYEAg&entry=tts&shorturl=1)
+### 二崁鳥來伯土豆仁粿
+- [二崁鳥來伯土豆仁粿](https://www.google.com/maps/place/%E9%B3%A5%E4%BE%86%E4%BC%AF+%E5%9C%9F%E8%B1%86%E4%BB%81%E7%B2%BF/@23.6058609,119.5192504,15z/data=!4m6!3m5!1s0x346c5b40c26f9619:0x8500c447e462aca3!8m2!3d23.6058609!4d119.5192504!16s%2Fg%2F11g19pg0qr?sa=X&ved=2ahUKEwjpzOzntamBAxUDB4gKHYM0AgYQ_BJ6BAhSEAA&ved=2ahUKEwjpzOzntamBAxUDB4gKHYM0AgYQ_BJ6BAhYEAg&entry=tts&shorturl=1)
 
 這是一間很小的雜貨店，走著走著就會錯過，我們會買來吃純粹是偶然。
 當時路過聽到店門口阿嬤在喊「要不要吃土豆仁粿」才停下腳步，原本阿嬤喊完繼續閉眼睡她的午覺，沒想到我們會有興趣地回答：「好，想吃看看！」，阿嬤瞬間睜眼驚醒(這表情我現在還忘不了，很真性情XD)
@@ -296,7 +308,8 @@ toc:  true
 
 ---
 
- - ### [二崁一號(陳家)](https://www.facebook.com/Erkan.No1/?locale=zh_TW) 
+### 二崁一號(陳家)
+ - [二崁一號(陳家)](https://www.facebook.com/Erkan.No1/?locale=zh_TW) 
    + 減塑友善，店家會給多一點+稱讚XD
 
 在杏仁茶隔壁條的巷子尾巴，有一家聚集很多遊客買飲料的果汁店，店家主打**季節限定冰花跟仙人掌果汁**，可惜我們去的九月沒有冰花，最後買了一樣是推薦款的**仙人掌優酪乳**$80
@@ -316,7 +329,8 @@ toc:  true
 
 ---
 
-- ### [二崁魚好刺身專門店](https://www.facebook.com/pesce.buone/?locale=zh_TW)
+### 二崁魚好刺身專門店
+- [二崁魚好刺身專門店](https://www.facebook.com/pesce.buone/?locale=zh_TW)
 
 魚好是在搜尋時，意外發現的寶藏小店。沒想到偶然跟民宿老闆聊到，她也推薦這家的生魚片，我想能獲得在地人稱讚想必是真的不錯，所以第三天又跑來二崁聚落一次。
 
@@ -335,7 +349,8 @@ toc:  true
 
 ---
 
-- ### [二崁陳媽媽澎湖味(在二崁花磚館內) ](https://penghuchenmama.weebly.com/)
+### 二崁陳媽媽澎湖味(在二崁花磚館內)
+- [二崁陳媽媽澎湖味(在二崁花磚館內) ](https://penghuchenmama.weebly.com/)
 
 這家店也是無意間找到的。找到當下，很衝動決定隔天回台灣前的早上，要再衝一波二崁！一切都是為了下面這包 **季節限定的辣味小章魚**。 
 
@@ -357,7 +372,8 @@ toc:  true
 
 
 ---
-- ### [澎湖瘋燒烤 - 自助式吃到飽BBQ](https://www.facebook.com/profile.php?id=100057236988274&locale=da_DK)
+### 澎湖瘋燒烤 - 自助式吃到飽BBQ
+- [澎湖瘋燒烤 - 自助式吃到飽BBQ](https://www.facebook.com/profile.php?id=100057236988274&locale=da_DK)
     + 可落地
     + 不另外收寵物清潔費
 
