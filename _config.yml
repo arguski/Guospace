@@ -7,6 +7,10 @@ paginate: 5
 permalink: pretty
 cover_image: /bg3.jpg
 
+# Google TAG
+google_analytics: G-PCGTG5XJGL
+
+
 # Gems
 plugins:
   - jekyll-gist
