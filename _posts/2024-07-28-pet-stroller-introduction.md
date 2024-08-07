@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 含運三千元的平價寵物推車介紹
+title: 入手平價寵物推車 中大型犬適用(含運新台幣3000元)
 date: 2024-07-28 16:05 +0800
 tags: [便宜寵物推車, 中大型犬寵物推車]
 toc:  true
@@ -30,20 +30,21 @@ toc:  true
 
 
 
-
-
- 
-
 ## 推車品牌
-
+Karubee
 
 ## 購買管道
-淘寶
+淘寶/產地中國
 
 ## 售價、運費
-
+RMB 499 換算約 NTD 2300  
+巧巧郎海運 約NTD 700  
+**合計 NTD 3000**
 
 ## 尺寸
+![]https://gw.alicdn.com/imgextra/i3/2215669776185/O1CN01jssRWN1vYmcyRgJEH_!!2215669776185.jpg_Q75.jpg_.webp
+整車含輪 110x90x75
+座艙尺寸 80x57x50CM
 
 ## 輪胎
 這款是EVA發泡輪。
